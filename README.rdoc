@@ -1,1 +1,2 @@
 This is the repository for the first alpha-blog  project of the complete ruby on rails project.
+My First Rails Project - Haroon Kondeth
